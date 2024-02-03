@@ -15,3 +15,5 @@ Code Smells:
    - Inventory names should be easy and safe to manage
    - 
 5. gf
+
+Guide: https://youtu.be/5mViuPccb8s
